@@ -1,0 +1,11 @@
+O processo consiste:
+(1) escrever o teste
+(2) rodar o teste e verificar se falha
+(3) escrever algum código da aplicação
+(4) rodar o teste novamente e repetir até passar
+(5) podemos refatorar nosso código, utilizando sempre o teste para garantir que não quebramos nada.
+
+Com os testes de unidade, adicionamos alguns passos extras:
+(3.1) Escrever um teste de unidade
+(3.2) caso o teste não passe, escrever um código mínimo
+(3.2) caso seja necessário, aplique uma refatoração
