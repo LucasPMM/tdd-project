@@ -1,0 +1,9 @@
+(1) Escopo: Testes de Unidade focam na verificação do comportamento de unidades individuais de código, 
+como funções, métodos ou classes, isolando-as do restante do sistema. Já Testes Funcionais visam testar 
+o sistema como um todo, verificando o comportamento de suas funcionalidades e interações com outros 
+sistemas ou componentes externos.
+
+(2) Nível de granularidade: Testes de Unidade são geralmente mais granulares e específicos, 
+testando pequenas partes do código, enquanto Testes Funcionais são mais amplos e testam o sistema
+em um nível mais alto de abstração. Os Testes de Unidade são geralmente escritos pelos desenvolvedores, 
+enquanto os Testes Funcionais são escritos pelos testadores de software ou especialistas em qualidade.
